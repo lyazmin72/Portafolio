@@ -4,8 +4,6 @@ Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adap
 
 El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Incluye una descripción breve de su motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
 
-También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
-
 ### Capturas de pantalla:
 
 Primera parte de la página web:
@@ -16,19 +14,20 @@ Primera parte de la página web:
 
 Experiencia:
 
-![Experiencia](imagenes/readme/screenshot2.png)
+![image](https://github.com/lyazmin72/Portafolio.github.io/assets/75684424/5abb1c1c-0a17-4d3b-88e2-4836bf859b17)
 
 Proyectos:
 
-![Proyectos](imagenes/readme/screenshot3.png)
+![image](https://github.com/lyazmin72/Portafolio.github.io/assets/75684424/f5863093-ecef-4439-8310-4ea90c8c2d5e)
 
 Testimonios:
 
-![Testimonios](imagenes/readme/screenshot4.png)
+![image](https://github.com/lyazmin72/Portafolio.github.io/assets/75684424/254764ea-a15a-4669-92d5-97c24a5ad036)
+
 
 Contacto:
+![image](https://github.com/lyazmin72/Portafolio.github.io/assets/75684424/b924ec99-805e-43d6-8eb8-648522e38809)
 
-![Contacto](imagenes/readme/screenshot5.png)
 
 ## Tecnologías
 
