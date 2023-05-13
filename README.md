@@ -10,7 +10,9 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/readme/screenshot1.png)
+![Primera parte de la página web]
+![image](https://github.com/lyazmin72/Portafolio.github.io/assets/75684424/aa9587c5-5e83-4a1c-b18d-2220f642e30d)
+
 
 Experiencia:
 
